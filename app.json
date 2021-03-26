@@ -9,7 +9,7 @@
     "pyrogram",
     "callsmusic"
   ],
-  "repository": "https://github.com/callsmusic/callsmusic",
+  "repository": "https://github.com/elsa-afk/callsmusic",
   "env": {
     "SESSION_NAME": {
       "description": "A Pyrogram session string.",
